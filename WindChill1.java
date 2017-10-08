@@ -1,3 +1,16 @@
+
+/******************************************************************************
+ *  Compilation:  javac -d bin com/bridgelabz/util/WindChill1.java
+ *  Execution:    java -cp bin com/bridgelabz/util/WindChill1
+ *  
+ *  Purpose:windchill program
+ *
+ *  @author  saurabh wakshe
+ *  @version 1.0
+ *  @since   02-10-2017
+ *
+******************************************************************************/
+package com.bridgelabz.util;
 public class WindChill1 {
 	/*
 	*	main method to calculate windchill
