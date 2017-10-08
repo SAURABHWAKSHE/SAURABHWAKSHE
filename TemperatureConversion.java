@@ -1,3 +1,16 @@
+
+/******************************************************************************
+ *  Compilation:  javac -d bin com/bridgelabz/util/TemperatureConversion.java
+ *  Execution:    java -cp bin com.bridgelabz.util.TemperatureConversion
+ *  
+ *  Purpose:Temperature Conversion from fahreneit to celcius and vice-versa
+ *
+ *  @author  Saurabh Wakshe
+ *  @version 1.8
+ *  @since   25-10-2017
+ *
+******************************************************************************/
+package com.bridgelabz.util;
 import java.util.Scanner;
 
 public class TemperatureConversion {
