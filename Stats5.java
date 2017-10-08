@@ -1,3 +1,15 @@
+
+/******************************************************************************
+ *  Compilation:  javac -d bin com/bridgelabz/util/Stats5.java
+ *  Execution:    java -cp bin com.bridgelabz.util.Stats5
+ *  
+ *  Purpose:generate random numbers between 0 and 1 and perform statistical operations onto them
+ *  @author  Saurabh Wakshe
+ *  @version 1.8
+ *  @since   25-09-2017
+ *
+******************************************************************************/
+package com.bridgelabz.util;
 public class Stats5 {
 	/*
 	*	main function to get average,max and min of Random value
