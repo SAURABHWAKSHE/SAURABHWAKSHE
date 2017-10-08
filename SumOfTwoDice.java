@@ -21,7 +21,7 @@ public class SumOfTwoDice {
         int b = 1 + (int) (Math.random() * SIDES);
         int sum = a + b;
        	/*
-	*print the numbers and sum
+	*print the numbers and find sum
 	*/
 	System.out.println(a);
 	System.out.println(b);
