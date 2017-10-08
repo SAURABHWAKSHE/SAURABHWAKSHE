@@ -1,12 +1,12 @@
 
 /******************************************************************************
  *  Compilation:  javac -d bin com/bridgelabz/util/WindChill1.java
- *  Execution:    java -cp bin com/bridgelabz/util/WindChill1
+ *  Execution:    java -cp bin com.bridgelabz.util.WindChill1
  *  
  *  Purpose:windchill program
  *
- *  @author  saurabh wakshe
- *  @version 1.0
+ *  @author  Saurabh Wakshe
+ *  @version 1.8
  *  @since   02-10-2017
  *
 ******************************************************************************/
