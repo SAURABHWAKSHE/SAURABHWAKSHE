@@ -1,3 +1,15 @@
+/******************************************************************************
+  *  Compilation:  javac -d bin com/bridgelabz/util/RepeatedNumber.java
+  *  Execution:    java -cp bin com.bridgelabz.util.RepeatedNumber
+  *  
+  *  Purpose:program to find Repeated Number in array
+  *
+  *  @author  Saurabh Wakshe
+  *  @version 1.8
+  *  @since   27-09-2017
+  *
+ ******************************************************************************/
+package com.bridgelabz.util;
 import java.util.Scanner;
 public class RepeatedNumber{
  static int a[];
