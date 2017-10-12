@@ -1,5 +1,16 @@
- import java.util.Scanner;
- 
+/******************************************************************************
+  *  Compilation:  javac -d bin com/bridgelabz/util/Cos.java
+  *  Execution:    java -cp bin com.bridgelabz.util.Cos
+  *  
+  *  Purpose:program to find cosine of angle
+  *
+  *  @author  Saurabh Wakshe
+  *  @version 1.8
+  *  @since   28-09-2017
+  *
+ ******************************************************************************/
+package com.bridgelabz.util;
+import java.util.Scanner;
 public class Cos {
 	//variable declaration
     static double fact=1,sum=0,number=8,i=1;
