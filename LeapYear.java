@@ -1,3 +1,15 @@
+/******************************************************************************
+  *  Compilation:  javac -d bin com/bridgelabz/util/LeapYear.java
+  *  Execution:    java -cp bin com.bridgelabz.util.LeapYear
+  *  
+  *  Purpose:program to determine whether given year is leapyear or not according to gregorian calender
+  *
+  *  @author  Saurabh Wakshe
+  *  @version 1.8
+  *  @since   28-09-2017
+  *
+ ******************************************************************************/
+package com.bridgelabz.util;
 import java.util.Scanner;
 
 public class LeapYear {
