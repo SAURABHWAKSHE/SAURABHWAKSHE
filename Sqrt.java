@@ -1,5 +1,3 @@
-
-
 /******************************************************************************
  *  Compilation:  javac -d bin com/bridgelabz/util/Sqrt.java
  *  Execution:    java -cp bin com.bridgelabz.util.Sqrt
@@ -11,6 +9,7 @@
  *  @since   27-09-2017
  *
 ******************************************************************************/import java.util.Scanner;
+package com.bridgelabz.util;
 public class Sqrt{
   /*
   * main method to find square root
