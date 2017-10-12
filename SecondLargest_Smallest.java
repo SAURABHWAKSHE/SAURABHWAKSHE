@@ -1,3 +1,15 @@
+/******************************************************************************
+ *  Compilation:  javac -d bin com/bridgelabz/util/SecondLargest_Smallest.java
+ *  Execution:    java -cp bin com.bridgelabz.util.SecondLargest_Smallest 
+ *  
+ *  Purpose:program to find Second Largest and second Smallest in an array
+ *
+ *  @author  Saurabh Wakshe
+ *  @version 1.8
+ *  @since   27-09-2017
+ *
+******************************************************************************/
+package com.bridgelabz.util;
 import java.util.Scanner;
 public class SecondLargest_Smallest{
 	public static void main(String[] args) {
