@@ -1,3 +1,15 @@
+/******************************************************************************
+ *  Compilation:  javac -d bin com/bridgelabz/util/Sin.java
+ *  Execution:    java -cp bin com.bridgelabz.util.Sin
+ *  
+ *  Purpose:to find sin of the angle
+ *
+ *  @author  Saurabh Wakshe
+ *  @version 1.8
+ *  @since   27-09-2017
+ *
+******************************************************************************/
+package com.bridgelabz.util;
 public class Sin {
     // function to find factorial
     public static long factorial(int n)
