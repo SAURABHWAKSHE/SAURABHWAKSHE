@@ -1,11 +1,15 @@
 public class Sin {
-    //Recursive function to find factorial
-    public static int factorial(int angleX){
-        if(angleX == 1)
-            return 1;
-        else
-            return angleX=angleX*factorial(angleX - 1);
-    }
+    // function to find factorial
+    public static long factorial(int n)
+     {
+		 int fact=1;
+         while(n>0)
+         {
+             fact=fact*n;
+             n--;
+         }
+         return (fact);
+     }
     public static void main(String args[]){
         double angleX = Integer.parseInt(args[0]);
         int copyOfAngleX = (int)angleX;
