@@ -1,3 +1,15 @@
+/******************************************************************************
+ *  Compilation:  javac -d bin com/bridgelabz/util/SpringSeason.java
+ *  Execution:    java -cp bin com.bridgelabz.util.SpringSeason
+ *  
+ *  Purpose:program to find the day lies in Springseason or not
+ *
+ *  @author  Saurabh Wakshe
+ *  @version 1.8
+ *  @since   27-09-2017
+ *
+******************************************************************************/
+package com.bridgelabz.util;
 import java.lang.Integer;
 
 public class SpringSeason{
