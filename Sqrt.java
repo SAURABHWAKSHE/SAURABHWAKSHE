@@ -8,8 +8,9 @@
  *  @version 1.8
  *  @since   27-09-2017
  *
-******************************************************************************/import java.util.Scanner;
+******************************************************************************/
 package com.bridgelabz.util;
+import java.util.Scanner;
 public class Sqrt{
   /*
   * main method to find square root
